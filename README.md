@@ -1,2 +1,0 @@
-# DemoShop
-Shop design implementation
